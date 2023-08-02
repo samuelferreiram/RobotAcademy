@@ -63,4 +63,12 @@ body {
     color: #fff;
     background-color: #000;
   }
-    
+        /* Estilos para telas de celular */
+@media screen and (max-width: 768px) {
+  /* Coloque os estilos específicos para telas de celular aqui */
+}
+
+/* Estilos para tablets */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Coloque os estilos específicos para tablets aqui */
+}
